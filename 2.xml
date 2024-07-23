@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- internal dtd-->
+<!DOCTYPE note
+[
+<!ELEMENT note (to,from,heading,body)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+
+
+]>
+<note>
+<to>tulsi</to>
+<from>giri</from>
+<heading>reminder</heading>
+<body>dont forget to bnk the web tech class at patan</body>
+</note>

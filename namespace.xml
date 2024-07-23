@@ -1,0 +1,18 @@
+<!-- the namespace declaration has the following syntax.xmlns:prefix="URL" -->
+
+<root>
+<h:table xmlns:h="https://www.w3.org/TR/html4/">
+<h:tr>
+<h:td>apples</h:td>
+<h:td>banana</h:td>
+</h:tr>
+</h:table>
+
+<f:table xmlns:f="http://www.w3school.com/furniture">
+<f:name>african coffee table</f:name>
+<f:width>80</f:width>
+<f:lenght>120</f:lenght>
+</f:table>
+</root>
+
+

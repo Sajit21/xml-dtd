@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+<xs:element name="note">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="to" type="xs:string"/>
+<xs:element name="from" type="xs:string"/>
+
+<xs:element name="heading" type="xs:string"/>
+
+<xs:element name="body" type="xs:string"/>
+</xs:schema>
+
+
+
+<!-- xsd element can be of type simpleType,complexType or anyType. an element of type simpleType contains only text. 
+it cannot have attribute and element . 
+an element of type complexType can contain text ,element and attribute -->

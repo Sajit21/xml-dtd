@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<note 
+xmlns="https://www.w3schools.com"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLoction="http://www.w3schools.comn note.xsd">
+<to>Tulsi</to>
+<from>Giri</from>
+<heading>reminder</heading>
+<body>dont forget me this weekend!</body>
+</note>
