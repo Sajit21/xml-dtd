@@ -1,3 +1,6 @@
+//some task related to xml which carry the data rather than displaying the data like html
+
+
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE note SYSTEM "note.dtd">
 <note>
