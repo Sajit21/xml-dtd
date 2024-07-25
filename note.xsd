@@ -1,3 +1,5 @@
+//xsd is a schema definition of like xml 
+
 <?xml version="1.0"?>
 <xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema"
 targetNamespace="https://www.w3schools.com"
